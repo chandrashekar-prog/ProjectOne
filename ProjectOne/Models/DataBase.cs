@@ -18,7 +18,7 @@ namespace ProjectOne.Models
                     Price = (decimal)499.99
                 }               
             };
-         for (int i = 2; i <= 11; i++)
+         for (int i = 2; i <= 10; i++)
             {
                 products.Add(new Product
                 {
